@@ -13,5 +13,10 @@
         <module>consumer</module>
     </modules>
 
+    <dependencyManagement>
+        <dependencies>
+
+        </dependencies>
+    </dependencyManagement>
 
 </project>
